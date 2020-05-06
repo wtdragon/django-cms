@@ -1,5 +1,5 @@
 ##########
-django CMS
+CI Deployment Based Django-CMS
 ##########
 .. image:: https://travis-ci.org/divio/django-cms.svg?branch=develop
     :target: https://travis-ci.org/divio/django-cms
@@ -71,13 +71,6 @@ For more information about our branch policy, see `Branches
 
 Our documentation is hosted courtesy of `Read the Docs <https://readthedocs.org>`_.
 
-
-********
-Tutorial
-********
-
-http://docs.django-cms.org/en/latest/introduction/index.html
-
 ***********
 Quick Start
 ***********
@@ -97,11 +90,7 @@ You can use the `django CMS installer <https://djangocms-installer.readthedocs.i
 Getting Help
 ************
 
-Please head over to our IRC channel, #django-cms, on irc.freenode.net or write
-to our `mailing list <https://groups.google.com/forum/#!forum/django-cms>`_.
 
-If you don't have an IRC client, you can `join our IRC channel using the KiwiIRC web client
-<https://kiwiirc.com/client/irc.freenode.net/django-cms>`_, which works pretty well.
 
 ******************
 Commercial support
