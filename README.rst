@@ -1,30 +1,6 @@
 ##########
 CI Deployment Based Django-CMS
 ##########
-.. image:: https://travis-ci.org/divio/django-cms.svg?branch=develop
-    :target: https://travis-ci.org/divio/django-cms
-.. image:: https://img.shields.io/pypi/v/django-cms.svg
-    :target: https://pypi.python.org/pypi/django-cms/
-.. image:: https://img.shields.io/badge/wheel-yes-green.svg
-    :target: https://pypi.python.org/pypi/django-cms/
-.. image:: https://img.shields.io/pypi/l/django-cms.svg
-    :target: https://pypi.python.org/pypi/django-cms/
-.. image:: https://codeclimate.com/github/divio/django-cms/badges/gpa.svg
-   :target: https://codeclimate.com/github/divio/django-cms
-   :alt: Code Climate
-
-Open source enterprise content management system based on the Django framework.
-
-.. image:: https://raw.githubusercontent.com/divio/django-cms/develop/docs/images/try-with-divio.png
-   :target: http://try.django-cms.org/
-   :alt: Try demo with Divio Cloud
-
-.. ATTENTION::
-
-    Please use the ``develop`` branch as the target for pull requests for on-going development.
-
-    Security fixes will be backported to older branches by the core team as appropriate.
-
 
 ********
 Features
